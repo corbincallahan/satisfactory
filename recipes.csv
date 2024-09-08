@@ -34,7 +34,7 @@ HS,Heat Sinks,1,AAS,5,CS,3,,,,
 Wa,Water,0,,,,,,,,
 NG,Nitrogen Gas,0,,,,,,,,
 Ru,Rubber,0,,,,,,,,
-RCU,Radio Control Units,2,AC,32,CO,1,,,,
+RCU,Radio Control Units,2,AC,32,CO,1,Cpu,1,,
 Mo,Motors,0,,,,,,,,
 CoS,Cooling Systems,1,HS,2,Ru,2,Wa,5,NG,25
 TM,Turbo Motors,1,CoS,4,RCU,2,Mo,4,Ru,24
@@ -44,3 +44,4 @@ TPR,Thermal Propulsion Rocket,2,ME,5,TM,2,CoS,6,FMF,2
 CP,Copper Powder,5,CI,30,,,,,,
 St,Stators,1,SP,3,W,8,,,,
 AW,Automated Wiring,1,St,1,Ca,20,,,,
+Cpu,Computers,1,CB,10,Ca,9,P,18,Scr,52
